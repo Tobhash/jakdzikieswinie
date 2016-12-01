@@ -1,15 +1,24 @@
 body{
 	text-align: center;
-	background: #00ECB9;
+	background: #ffab40;
 	font-family: sans-serif;
 	font-weight: 100;
 }
 
 h1{
-	color: #396;
+	color: #bf360c;
 	font-weight: 100;
 	font-size: 40px;
 	margin: 40px 0px 20px;
+}
+
+.swinkowy-div{
+	padding-top: 15px;
+}
+
+.swinie{
+	width: 158px;
+	height: 158px;
 }
 
 #clockdiv{
@@ -24,14 +33,14 @@ h1{
 #clockdiv > div{
 	padding: 10px;
 	border-radius: 3px;
-	background: #00BF96;
+	background: #d84315;
 	display: inline-block;
 }
 
 #clockdiv div > span{
 	padding: 15px;
 	border-radius: 3px;
-	background: #00816A;
+	background: #bf360c;
 	display: inline-block;
 }
 
